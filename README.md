@@ -38,11 +38,11 @@ The Twitter Engine has the following functionalities, each of which is handled b
 dotnet run
 ```
 **Client:**
-
+```
 dotnet fsi TwitterClient.fsx
-
+```
 **Command options:**<br>
-Register: register,username,password<br>
+Register: ```register,<username>,<password>```<br>
 Login: login,username,password<br>
 Subscribe: subscribe,username<br>
 Send Tweet: send,tweet content<br>
