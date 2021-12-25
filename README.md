@@ -2,8 +2,7 @@
 ## COP5615: DOSP - Project 4 part II
 A clone of the Twitter app with a Twitter Engine and a Client Simultor, implemented in F# using WebSockets.
 
-## Team
-Swarnabha Roy
+### Team: Swarnabha Roy
 
 ### Demo Link: 
 [https://youtu.be/xU2Eq48PKLg]
