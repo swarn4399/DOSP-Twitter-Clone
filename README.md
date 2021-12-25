@@ -3,10 +3,10 @@
 A clone of the Twitter app with a Twitter Engine and a Client Simultor, implemented in F# using WebSockets.
 
 ## Team
-- Swarnabha Roy
+Swarnabha Roy
 
 ### Demo Link: 
-https://youtu.be/xU2Eq48PKLg
+[https://youtu.be/xU2Eq48PKLg]
 
 In this project, I implemented a Twitter-like system in F# using the WebSocketSharper and Suave webframework to implement a WebSocket interface.I have designed a JSON based API that represents all messages and their replies, along with errors.
 
