@@ -1,9 +1,9 @@
 # Twitter Clone
  A clone of the Twitter app with a Twitter Engine and a Client Simultor, implemented in F# using WebSockets.
 
-# COP5615: DOSP - Project 4 part II
+## COP5615: DOSP - Project 4 part II
 
-# Team: Swarnabha Roy
+## Team: Swarnabha Roy
 
 In this project, I implemented a Twitter-like system in F# using the WebSocketSharper and Suave webframework to implement a WebSocket interface.I have designed a JSON based API that represents all messages and their replies, along with errors.
 
@@ -28,7 +28,7 @@ The Twitter Engine has the following functionalities, each of which is handled b
 **connect/ disconnect** - takes a string for the username of the userwanting to connect or disconnect. This is similar to going online/offline. When a user is connected, if he/she does any activity ie. tweet/retweet, all of his/her tweets and retweets are sent as a live feed to all of his/her subscribers. That is, the tweets/retweets are available without querying. This stops and returns to the previous scenario as soon as the user disconnect (goes offline).
 
 
-**How to run:**
+## How to run:
 
 **Server:**
 
