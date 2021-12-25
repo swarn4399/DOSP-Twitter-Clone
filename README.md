@@ -43,10 +43,10 @@ dotnet fsi TwitterClient.fsx
 ```
 **Command options:**<br>
 Register: ```register,<username>,<password>```<br>
-Login: login,username,password<br>
-Subscribe: subscribe,username<br>
-Send Tweet: send,tweet content<br>
-Retweet: retweet,tweet ID<br>
-Query the subscribed tweets: queryST<br>
-Query Hashtags: queryHashtag,#hashtag<br>
-Query Mentions: queryMention,@mention<br>
+Login: ```login,<username>,<password>```<br>
+Subscribe: ```subscribe,<username>```<br>
+Send Tweet: ```send,<tweet content>```<br>
+Retweet: ```retweet,<tweet ID>```<br>
+Query the subscribed tweets: ```queryST```<br>
+Query Hashtags: ```queryHashtag,<#hashtag>```<br>
+Query Mentions: ```queryMention,<@mention>```<br>
