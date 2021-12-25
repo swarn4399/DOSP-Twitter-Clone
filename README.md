@@ -34,9 +34,9 @@ The Twitter Engine has the following functionalities, each of which is handled b
 ## How to run:
 
 **Server:**
-
+```
 dotnet run
-
+```
 **Client:**
 
 dotnet fsi TwitterClient.fsx
